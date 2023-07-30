@@ -10,6 +10,10 @@ public class Calc {
 		return i - j;
 	}
 
+	public int divNums(int i, int j) {
+		return i / j;
+	}
+
 }
 
 
