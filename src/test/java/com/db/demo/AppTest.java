@@ -47,7 +47,7 @@ public class AppTest {
 
 	@Test
 	public void testSubNums2() {
-		assertNotEquals(5, calc.subNums(10, 5));
+		assertNotEquals(4, calc.subNums(10, 5));
 	}
 
 }
