@@ -9,4 +9,9 @@ public class Calc {
 	public int subNums(int i, int j) {
 		return i - j;
 	}
+
+	public int divNums(int i, int j) {
+		return i / j;
+	}
+
 }
