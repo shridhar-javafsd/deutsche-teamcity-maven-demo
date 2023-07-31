@@ -50,4 +50,8 @@ public class AppTest {
 		assertNotEquals(4, calc.subNums(10, 5));
 	}
 
+	@Test
+	public void testDivNums() {
+		assertEquals(2, calc.subNums(10, 5));
+	}
 }
