@@ -52,6 +52,6 @@ public class AppTest {
 
 	@Test
 	public void testDivNums() {
-		assertEquals(2, calc.subNums(10, 5));
+		assertEquals(2, calc.divNums(10, 5));
 	}
 }
